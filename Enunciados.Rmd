@@ -55,7 +55,6 @@ Para la inversión 3: 4, 9, 10, 7 (millones de euros)
 Elegir una inversion justificando la decision tomada.
 
 ## 3. Ángela Sánchez
-
 ### Ejercicio 3.1
 Aplicar los criterios de decisión bajo incertidumbre a los problemas cuya matriz 
 de valores numéricos viene dada en la tabla siguiente:
