@@ -143,8 +143,21 @@ kable(tabla1_criterios)
 
 Como vemos, la opción de quedarse trabajando en la empresa donde está realizando las prácticas en el mismo puesto que ahora (d2) queda rechazada por todos los métodos utilizados. Entre los otros dos, la decisión depende del método que tomemos, pero principalmente la eligida es la opción de aceptar el puesto como profesor (d1).
 
+## 2. Mario Cutillas
+### Ejercicio 2.1
+Aplicar los criterios de decisión bajo incertidumbre al siguiente problema:
+Tenemos tres posibles escenarios y tres posibles decisiones a tomar. La decisión 1 conlleva unos beneficios de 5, 3 y 9 unidades en cada uno de los escenarios. La decisión 2 conlleva unos beneficios de 0, 12 y 4 unidades en cada escenario. Por último, la decisión 3 implica unas ganancias de 10, 1 y 6 unidades en cada escenario. 
 
-## 4. Alfonso López
+
+### Ejercicio 2.2
+
+## 3. Ángela Sánchez
+
+### Ejercicio 3.1
+
+### Ejercicio 3.2
+
+## 4. Alfonso López Santiago
 ### Ejercicio 4.1
 Resuelve el siguiente ejercicio de teoría de la decisión bajo incertidumbre tanto para el caso favorable (beneficios) como para el desfavorable(costos).
 

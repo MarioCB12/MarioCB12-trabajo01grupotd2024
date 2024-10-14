@@ -60,7 +60,7 @@ Elegir una inversion justificando la decision tomada.
 
 ### Ejercicio 3.2
 
-## 4. Alfonso López
+## 4. Alfonso López Santiago
 
 ### Ejercicio 4.1
 Resuelve el siguiente ejercicio de teoría de la decisión bajo incertidumbre tanto para el caso favorable (beneficios) como para el desfavorable(costos).
