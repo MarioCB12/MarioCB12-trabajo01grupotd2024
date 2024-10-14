@@ -14,7 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# Ejercicio 1
+## 1. Irene Pantoja Reina
+### Ejercicio 1.1
 Utiliza métodos de R studio para la resolución del siguiente ejercicio de teoría de la decisión bajo incertidumbre. 
 ```{r}
 source("teoriadecision_funciones_incertidumbre.R")
@@ -95,7 +96,7 @@ kable(criterio_todo)
 
 Podemos concluir que la mejor decisión que podemos tomar es 'd3'.
 
-# Ejercicio 2
+### Ejercicio 2.2
 Carlos es un estudiante a punto de terminar Estadística que está planteándose varias alternativas para su futuro, entre las que quiere elegir aquella en la que consiga ahorrar la mayor cantidad de dinero en los primeros 5 años tras terminarla, ya que tiene como finalidad reunir el máximo dinero posible para la entrada de una vivienda propia. 
 La verdadera vocación de Carlos ha sido siempre ser profesor de Matemáticas en un instituto público de secundaria, pero quiere saber si merecerá la pena perseguir su sueño, o por el contrario es preferible elegir otra de las opciones que tiene en mente. El principal inconveniente es que todas las alternativas tienen irregularidades dependiendo de factores externos, lo que hace que el dinero que perciba por cada una de ellas varíe.
 
