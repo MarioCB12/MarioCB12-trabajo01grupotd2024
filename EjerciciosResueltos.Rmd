@@ -151,8 +151,7 @@ Tenemos tres posibles escenarios y tres posibles decisiones a tomar. La decisió
 
 ### Ejercicio 2.2
 
-## 3. Ángela Sánchez
-
+## 3. Ángela Sánchez Rodríguez
 ### Ejercicio 3.1
 Aplicar los criterios de decisión bajo incertidumbre a los problemas cuya matriz 
 de valores numéricos viene dada en la tabla siguiente:
