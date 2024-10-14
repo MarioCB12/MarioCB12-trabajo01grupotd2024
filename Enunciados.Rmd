@@ -1,6 +1,6 @@
 ---
 title: "Enunciados"
-author: "Irene Pantoja Reina"
+
 date: "2024-09-27"
 output:
   html_document: default
@@ -12,8 +12,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Enunciados de los problemas
-
-## Ejercicio 1
+## 1. Irene Pantoja Reina
+### Ejercicio 1.1
 Utiliza métodos de R studio para la resolución del siguiente ejercicio de teoría de la decisión bajo incertidumbre. 
 ```{r}
 source("teoriadecision_funciones_incertidumbre.R")
@@ -29,7 +29,7 @@ kable(tabla)
 ```
 
 
-## Ejercicio 2
+### Ejercicio 2.2
 Carlos es un estudiante a punto de terminar Estadística que está planteándose varias alternativas para su futuro, entre las que quiere elegir aquella en la que consiga ahorrar la mayor cantidad de dinero en los primeros 5 años tras terminarla, ya que tiene como finalidad reunir el máximo dinero posible para la entrada de una vivienda propia. 
 La verdadera vocación de Carlos ha sido siempre ser profesor de Matemáticas en un instituto público de secundaria, pero quiere saber si merecerá la pena perseguir su sueño, o por el contrario es preferible elegir otra de las opciones que tiene en mente. El principal inconveniente es que todas las alternativas tienen irregularidades dependiendo de factores externos, lo que hace que el dinero que perciba por cada una de ellas varíe.
 
@@ -40,5 +40,30 @@ La verdadera vocación de Carlos ha sido siempre ser profesor de Matemáticas en
 - ⁠Como última opción, Carlos se plantea **hacer un máster** para complementar sus estudios. Para realizar dicho máster tendría que pagar 5500€ en una universidad privada, que le ofrece realizarlo de forma online, por lo que durante el año que dura la maestría podría mantener su trabajo en la empresa que está junto a su casa y por la que recibía un salario de 1450€ al mes (menos gastos), o 1650€ si acreditaba el idioma. Al finalizar el máster, optaría a un puesto de trabajo con mejores condiciones y más especializado en la misma empresa de antes, donde recibiría un salario de 1900€ en 12 pagas, o de 2100€ si acreditase el idioma. Si decidiese ser enviado a la sede de Valladolid, su sueldo ascendería a 2400€ (o 2600€ con el idioma), pero tendría unos gastos mensuales fijos de 1400€.
 
 
+## 2. Mario Cutillas
+### Ejercicio 2.1
+Aplicar los criterios de decisión bajo incertidumbre al siguiente problema:
+Tenemos tres posibles escenarios y tres posibles decisiones a tomar. La decisión 1 conlleva unos beneficios de 5, 3 y 9 unidades en cada uno de los escenarios. La decisión 2 conlleva unos beneficios de 0, 12 y 4 unidades en cada escenario. Por último, la decisión 3 implica unas ganancias de 10, 1 y 6 unidades en cada escenario. 
+
+
+
+### Ejercicio 2.2
+Un fondo de inversiones estudia realizar una inversión en uno de entre 5 productos financieros distintos. Dependiendo del comportamiento de la bolsa  a nivel global, los rendimientos esperados para las inversiones (i1, i2, i3, i4, i5) son:
+Para la inversión 1: 0, 12 ,3, 20 (millones de euros)
+Para la inversión 2: 5, 5, 5, 5 (millones de euros)
+Para la inversión 3: 4, 9, 10, 7 (millones de euros)
+Elegir una inversion justificando la decision tomada.
+
+## 3. Ángela Sánchez
+
+### Ejercicio 3.1
+
+### Ejercicio 3.2
+
+## 4. Alfonso López
+
+### Ejercicio 4.1
+
+### Ejercicio 4.2
 
 
